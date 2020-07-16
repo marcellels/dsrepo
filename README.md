@@ -16,4 +16,4 @@ Já atuei em laboratórios químicos, como assistente administrativo em uma corr
 
 ## Projetos:
 
-Em construção.
+* **Análise dos Dados do Airbnb: Munique - Alemanha:** https://bit.ly/3h4PovK
