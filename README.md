@@ -5,7 +5,7 @@
 </p>
 
 # Marcelle da Silva
-<sub>*Data Science Student*</sub>
+<sub>*Chemical Engineering Student / Data Science Student*</sub>
 
 Estudante do último semestre de Engenharia Química, iniciei os estudos em *Data Science* para aprimorar ainda mais minha capacidade de lidar com dados. Através do curso *Data Science na Prática (DSNP)*, desenvolvido pelo [Sigmoidal](https://sigmoidal.ai), inicio a criação do meu portfólio e o disponibilizo nesta plataforma para a apreciação de todos.
 
