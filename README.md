@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcelledasilva-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelledasilva/)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/marcellels/dsrepo/master/Banner_dsrepo_v.02.png" >
+  <img src="https://raw.githubusercontent.com/marcellels/dsrepo/master/Banner_dsrepo_v.01.png" >
 </p>
 
 # Marcelle da Silva
