@@ -16,4 +16,4 @@ Já atuei em laboratórios químicos, como assistente administrativo em uma corr
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb: Munique - Alemanha:** https://bit.ly/3h4PovK
+* [**Análise dos Dados do Airbnb: Munique - Alemanha:**](https://github.com/marcellels/dsrepo/blob/master/Analisando_os_Dados_do_Airbnb_Munique.ipynb)
