@@ -17,3 +17,4 @@ Já atuei em laboratórios químicos, como assistente administrativo em uma corr
 ## Projetos:
 
 * [**Análise dos Dados do Airbnb: Munique, Alemanha**](https://github.com/marcellels/dsrepo/blob/master/Analisando_os_Dados_do_Airbnb_Munique.ipynb)
+* [**Análise da Violência Contra a Mulher no Rio Grande do Sul**](https://github.com/marcellels/dsrepo/blob/master/Analisando_a_Viol%C3%AAncia_Contra_a_Mulher_RS.ipynb)
